@@ -1,2 +1,2 @@
-# share
-Common shared repository
+# libmgtsys
+Library management system
